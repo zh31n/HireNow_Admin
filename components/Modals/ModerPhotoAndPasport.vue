@@ -4,11 +4,28 @@
             <div class="close">
                 <img src="../../assets/images/close.svg" alt="">
             </div>
-            <div class="modal_title">Модерация фотографии</div>
-            <div class="img_guy">
-                <img src="../../assets/images/img_big.svg" alt="">
+            <div class="moder_img" style="display: none;">
+                <div class="modal_title">Модерация фотографии</div>
+                <div class="md_count">1 из 2</div>
+                <div class="slid_btn_img">
+                    <div class="img_guy">
+                        <img src="../../assets/images/img_big.svg" alt="">
+                    </div>
+                    <img class="sl_btn" src="../../assets/images/arr_r.svg" alt="">
+                </div>
+                <div class="u_id">id: <span>23</span></div>
             </div>
-            <div class="u_id">id: <span>23</span></div>
+            <div class="moder_pass">
+                <div class="modal_title">Модерация паспорта</div>
+                <div class="md_count">2 из 2</div>
+                <div class="slid_btn_img">
+                    <img class="sl_btn" src="../../assets/images/arr_left.svg" alt="">
+                    <div class="img_guy">
+                        <img src="../../assets/images/pasport_round.svg" alt="">
+                    </div>
+                </div>
+                <div class="u_id">id: <span>23</span></div>
+            </div>
             <div class="moder_btns">
                 <div class="moder_btn">Принять</div>
                 <div class="moder_btn">Отклонить</div>
@@ -19,7 +36,7 @@
 
 <script>
 export default {
-    name: 'ModerPhoto'
+    name: 'ModerPhotoAndPasport'
 }
 </script>
 
@@ -58,7 +75,7 @@ export default {
     text-align: center;
     font-size: 22px;
     font-weight: 700;
-    margin-bottom: 2rem;
+    margin-bottom: 1rem;
 }
 
 .img_guy {
@@ -71,6 +88,7 @@ export default {
     justify-content: center;
     align-items: center;
     margin-top: 1rem;
+    overflow: hidden;
 }
 
 .u_id {
@@ -102,8 +120,33 @@ export default {
         margin-left: 25px;
         cursor: pointer;
     }
-    .moder_btn:last-child{
+
+    .moder_btn:last-child {
         background-color: #EB5757;
     }
+}
+
+.md_count {
+    font-size: 16px;
+    font-weight: 700;
+    color: #828282;
+    text-align: center;
+}
+
+.slid_btn_img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    width: 80%;
+    margin-left: 5.5rem;
+
+    .sl_btn {
+        cursor: pointer;
+    }
+}
+
+.moder_pass .slid_btn_img{
+    margin-left: 2rem;
 }
 </style>

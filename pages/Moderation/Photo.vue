@@ -1,6 +1,5 @@
 <template>
     <div class="stat">
-        <ModerPhoto style="display: none;"/>
         <div class="container">
             <div class="stat_i">
                 <div class="info_stats">
@@ -180,10 +179,11 @@
 
 <script>
 import ModerPhoto from '../../components/Modals/ModerPhoto.vue';
-export default{
-    components:{
-        ModerPhoto
-    }
+import ModerPhotoAndPasport from '../../components/Modals/ModerPhotoAndPasport.vue';
+import ModerPass from '../../components/Modals/ModerPass.vue';
+
+export default {
+    components: {ModerPhoto,ModerPhotoAndPasport,ModerPass}
 }
 
 </script>
@@ -285,4 +285,5 @@ export default{
         }
     }
 
-}</style>
+}
+</style>

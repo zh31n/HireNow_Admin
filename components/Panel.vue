@@ -14,7 +14,7 @@
                 <img src="../assets/images/protect.svg" alt="">
                 Модерация
             </NuxtLink>
-            <NuxtLink to="/" class="p_btn " >
+            <NuxtLink to="/Category" class="p_btn " >
                 <img src="../assets/images/books.svg" alt="">
                 Категории
             </NuxtLink>

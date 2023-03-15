@@ -4,14 +4,14 @@
             <div class="close">
                 <img src="../../assets/images/close.svg" alt="">
             </div>
-            <div class="modal_title">Модерация фотографии</div>
-            <div class="img_guy">
-                <img src="../../assets/images/img_big.svg" alt="">
+            <div class="modal_title">Добавить категорию</div>
+            <div class="add_inputs">
+                <input type="text" placeholder="Название категории (Например строительство)">
+                <input type="text" placeholder="Стоимость отклика">
+                <input type="text" placeholder="Стоимость отклика за обмен контактами">
             </div>
-            <div class="u_id">id: <span>23</span></div>
             <div class="moder_btns">
-                <div class="moder_btn">Принять</div>
-                <div class="moder_btn">Отклонить</div>
+                <div class="moder_btn">Добавить</div>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@
 
 <script>
 export default {
-    name: 'ModerPhoto'
+    name: 'AddCategory'
 }
 </script>
 
@@ -33,14 +33,14 @@ export default {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(0, 0, 0, .5);
+    background-color: rgba(0, 0, 0, .4);
     z-index: 20;
     transition: .3s all;
     font-family: 'Lato', sans-serif;
 }
 
 .modal_i {
-    width: 610px;
+    width: 800px;
     height: 610px;
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
@@ -57,27 +57,8 @@ export default {
 .modal_title {
     text-align: center;
     font-size: 22px;
-    font-weight: 700;
+    font-weight: 400;
     margin-bottom: 2rem;
-}
-
-.img_guy {
-    margin-right: auto;
-    margin-left: auto;
-    height: 325px;
-    width: 325px;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-top: 1rem;
-}
-
-.u_id {
-    text-align: center;
-    font-size: 22px;
-    font-weight: 700;
-    margin-top: 1rem;
 }
 
 .moder_btns {
@@ -102,8 +83,33 @@ export default {
         margin-left: 25px;
         cursor: pointer;
     }
-    .moder_btn:last-child{
-        background-color: #EB5757;
+}
+
+.add_inputs {
+    margin-top: 3rem;
+    margin-bottom: 7rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+
+    input {
+        width: 670px;
+        height: 50px;
+        background: #FFFFFF;
+        border: 1px solid #828282;
+        border-radius: 40px;
+        padding-left: 1.5rem;
+        margin-right: auto;
+        margin-left: auto;
+        font-size: 16px;
+        color: black;
+        font-family: 'Lato', sans-serif;
     }
+    input::placeholder{
+        color: #828282;
+    }
+
 }
 </style>
