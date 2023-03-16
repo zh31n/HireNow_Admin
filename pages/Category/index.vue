@@ -1,6 +1,6 @@
 <template>
     <div class="stat">
-        <AddCategory />
+        <AddCategory style="display: none;" />
         <div class="container">
             <div class="stat_i">
                 <div class="page_title">Категории/Специализации</div>
@@ -18,7 +18,7 @@
                     </div>
                 </div>
                 <div class="page_i">
-                    <div class="cat_line">Курьерские услуги</div>
+                    <NuxtLink to="Category/Courier" class="cat_line">Курьерские услуги</NuxtLink>
                     <div class="cat_line">Уборка и помощь по хозяйству</div>
                     <div class="cat_line">Разработка ПО</div>
                     <div class="cat_line">Дизайн</div>
@@ -36,14 +36,17 @@
 <script>
 import AddCategory from '../../components/Modals/AddCategory.vue';
 
-export default{
-    components:{
-    AddCategory
-}
+export default {
+    components: {
+        AddCategory
+    }
 }
 </script>
 
 <style scoped lang="scss">
+a{
+    color: black !important;
+}
 .page_title {
     font-size: 22px;
     font-weight: 500;
@@ -113,7 +116,7 @@ export default{
     height: 550px;
     overflow: auto;
     margin-top: 2rem;
-    font-family: 'Lato',sans-serif;
+    font-family: 'Lato', sans-serif;
 
     .cat_line {
         margin-bottom: 15px;
