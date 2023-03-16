@@ -18,19 +18,19 @@
                 <img src="../assets/images/books.svg" alt="">
                 Категории
             </NuxtLink>
-            <NuxtLink to="/" class="p_btn ">
+            <NuxtLink to="/Chat" class="p_btn ">
                 <img src="../assets/images/chat.svg" alt="">
                 Чат
             </NuxtLink>
-            <NuxtLink to="/" class="p_btn ">
+            <NuxtLink to="/Users" class="p_btn ">
                 <img src="../assets/images/person.svg" alt="">
                 Пользователи
             </NuxtLink>
-            <NuxtLink to="/" class="p_btn ">
+            <NuxtLink to="/Settings" class="p_btn ">
                 <img src="../assets/images/gearshape.svg" alt="">
                 Настройки
             </NuxtLink>
-            <div class="p_btn ">
+            <div class="p_btn active">
                 <img src="../assets/images/figure.svg" alt="">
                 Выйти из профиля
             </div>
