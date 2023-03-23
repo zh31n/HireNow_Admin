@@ -25,7 +25,13 @@ export default {
 }
 </script>
 
+
 <style scoped lang="scss">
+
+.chat_page {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
 .info_stats {
     display: flex;
     justify-content: space-between;

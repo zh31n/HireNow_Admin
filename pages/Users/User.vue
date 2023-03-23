@@ -85,6 +85,130 @@
                                 <!-- Сделаю и простой landing page, и серьезный проект, в портфолио представлены мои выполненные
                                 работы! -->
                             </p>
+                            <div class="btn_all_about">Показать полностью</div>
+                        </div>
+                        <div class="examples_job_mob" style="display: none;">
+                            <div class="exj_titlr">Примеры работ</div>
+                            <div class="exm_job_line">
+                                <div class="exm_job_line_info">
+                                    <div class="exm_job_img"></div>
+                                    <div class="ex_job_inf">
+                                        <div class="">Сертификаты</div>
+                                        <div class="">6 фотографий</div>
+                                    </div>
+                                </div>
+                                <img src="../../assets/images/arr_r.svg" alt="">
+                            </div>
+                            <div class="exm_job_line">
+                                <div class="exm_job_line_info">
+                                    <div class="exm_job_img"></div>
+                                    <div class="ex_job_inf">
+                                        <div class="">Сертификаты</div>
+                                        <div class="">6 фотографий</div>
+                                    </div>
+                                </div>
+                                <img src="../../assets/images/arr_r.svg" alt="">
+                            </div>
+                            <div class="exm_job_line">
+                                <div class="exm_job_line_info">
+                                    <div class="exm_job_img"></div>
+                                    <div class="ex_job_inf">
+                                        <div class="">Сертификаты</div>
+                                        <div class="">6 фотографий</div>
+                                    </div>
+                                </div>
+                                <img src="../../assets/images/arr_r.svg" alt="">
+                            </div>
+                        </div>
+                        <div class="examples_job">
+                            <div class="example">
+                                <div class="example_photo"></div>
+                                <div class="example_title">Сертификаты</div>
+                                <div class="example_sup">6 фотографий</div>
+                            </div>
+                            <div class="example">
+                                <div class="example_photo"></div>
+                                <div class="example_title">Благодарственные письма</div>
+                                <div class="example_sup">1 фотография</div>
+                            </div>
+                            <div class="example">
+                                <div class="example_photo"></div>
+                                <div class="example_title">Создание сайтов "Под ключ"</div>
+                                <div class="example_sup">20 фотографий</div>
+                            </div>
+                        </div>
+                        <div class="types_work">
+                            <div class="types_work_title">Виды выполняемых работ</div>
+                            <div class="type_work">
+                                <img src="../../assets/images/mess/Разработка ПО.svg" alt="">
+                                <div class="type_work_i">
+                                    <div class="type_work_i_title">Разработка ПО</div>
+                                    <div class="type_work_i_line f">
+                                        Создание лендингов
+                                        <span class="m_in">(11-й в рейтинге из 131)</span>
+                                        <div class="line"></div>
+                                        <span class="tire_"> - </span>
+                                        19 заданий
+                                    </div>
+                                    <div class="type_work_i_line s ">
+                                        Сайт под ключ
+                                        <span class="m_in">(13-й в рейтинге из 366)</span>
+                                        <span class="line"></span>
+                                        <span class="tire_"> - </span>
+                                        150 заданий
+                                    </div>
+                                    <div class="type_work_i_line t">
+                                        Что-то другое
+                                        <span class="m_in">(21-й в рейтинге из 170)</span>
+                                        <span class="line"></span>
+                                        <span class="tire_"> - </span>
+                                        3 заданий
+                                    </div>
+                                    <div class="check_more">Показать ещё подкатегории</div>
+                                </div>
+                            </div>
+                            <div class="type_work">
+                                <img src="../../assets/images/mess/Дизайн.svg" alt="">
+                                <div class="type_work_i">
+                                    <div class="type_work_i_title">Компьютерная помощь</div>
+                                    <div class="type_work_i_line f">
+                                        Консультация и обучение
+                                        <div style="width: 300px;" class="line"></div>
+                                        1 задание
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="exr_feedback">
+                            <div class="exr_feedback_up">
+                                <div class="avg_estimation">
+                                    Средняя оценка 5.0
+                                    <div class="stars">
+                                        <img src="../../assets/images/mess/Star.svg" alt="">
+                                        <img src="../../assets/images/mess/Star.svg" alt="">
+                                        <img src="../../assets/images/mess/Star.svg" alt="">
+                                        <img src="../../assets/images/mess/Star.svg" alt="">
+                                        <img src="../../assets/images/mess/Star.svg" alt="">
+                                    </div>
+                                </div>
+                                <div class="feedbacks">168 отзывов</div>
+                            </div>
+                            <div class="feedback_filters">
+                                Отзывы
+                                <div class="conn">
+                                    <div class="fb_btn_filter active">От заказчиков</div>
+                                    <div class="fb_btn_filter">От исполнителей</div>
+                                </div>
+                            </div>
+                            <FeedbackButtons />
+                            <div class="feedback_items">
+                                <FeedBackItem />
+                                <FeedBackItem />
+                                <FeedBackItem />
+                                <FeedBackItem />
+                                <FeedBackItem />
+                                <FeedBackItem />
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -94,12 +218,15 @@
 </template>
 
 <script>
-
+import FeedbackButtons from '../../components/FeedbackButtons.vue'
+import FeedBackItem from '../../components/FeedBackItem.vue'
 
 export default {
+
+
     components: {
-
-
+        FeedbackButtons,
+        FeedBackItem
     }
 }
 
@@ -107,23 +234,30 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.executor_card {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
 .executor_card_i {
     width: 100%;
-    height:720px;
+    height: auto;
     background-color: white;
     border-radius: 20px 20px 0 0;
     padding-top: 2rem;
     margin-top: 2rem;
     overflow: hidden;
 }
-.btns_ban{
+
+.btns_ban {
     display: flex;
     justify-content: flex-start;
     gap: 20px;
     align-items: center;
     padding-left: 2rem;
     margin-bottom: 4rem;
-    .btn{
+
+    .btn {
         width: 153px;
         height: 32px;
         background: #FFA200;
@@ -136,7 +270,8 @@ export default {
         font-weight: 400;
         cursor: pointer;
     }
-    .btn:last-child{
+
+    .btn:last-child {
         background: #EB5757;
     }
 }
@@ -597,6 +732,4 @@ export default {
 }
 
 // Media
-
-
 </style>

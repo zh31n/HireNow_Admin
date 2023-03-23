@@ -1,6 +1,6 @@
 <template>
     <div class="courier_page">
-        <CreateBalance />
+        <CreateBalance style="display: none;"/>
         <div class="container">
             <div class="info_stats">
                 <div class="info_page">
@@ -124,7 +124,214 @@
                                     <img src="../../assets/images/delete.svg" alt="">
                                 </div>
                             </div>
-
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
+                            <div class="podcat_line">
+                                <div class="">sbangl</div>
+                                <div class="">27</div>
+                                <div class="btns_ver">
+                                    <img src="../../assets/images/Деактивировать.svg" alt="">
+                                    <img src="../../assets/images/delete.svg" alt="">
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -147,6 +354,11 @@ export default {
 </script>
 
 <style scoped lang="scss">
+.courier_page {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
 .table_h {
     display: flex;
     justify-content: flex-start;
@@ -202,19 +414,21 @@ export default {
     font-weight: 400;
 }
 
-.lines_pod{
-    height: 380px;
-    overflow: auto;
+.lines_pod {
+    height: auto;
+    // overflow: auto;
     width: 100%;
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .c_table {
-    height: 720px;
+    height: auto;
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 20px 20px 0 0;
     margin-top: 2rem;
+    padding-bottom: 1rem;
 
     .c_table_i {
         // height: 500px;
@@ -222,7 +436,7 @@ export default {
         margin-top: 3rem;
 
         .podcat_block {
-            width: 1100px;
+            width: 95%;
             margin-right: auto;
             margin-left: auto;
             margin-bottom: 2rem;
@@ -321,6 +535,12 @@ export default {
                 background-color: #FFA200;
             }
         }
+    }
+}
+
+@media (max-width: 1281px) {
+    .btns_ver{
+        margin-left: 32%;
     }
 }
 </style>

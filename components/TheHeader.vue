@@ -24,11 +24,15 @@ export default {
 
 <style scoped lang="scss">
 .header {
+    position: fixed;
     width: 100%;
+    top: 0;
+    z-index: 10;
     height: 85px;
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
 
     .header_i {
         display: flex;

@@ -78,7 +78,7 @@ export default {
         width: 100%;
         height: 724px;
         background: #FFFFFF;
-        border-radius: 20px 20px 0 0;
+        border-radius: 20px 20px 20px 20px;
     }
 }
 
@@ -177,7 +177,7 @@ export default {
     }
 
     .msg_input_send_inp {
-        width: 590px;
+        width: 85%;
         height: 40px;
         border: 1px solid #D9D9D9;
         border-radius: 5px;

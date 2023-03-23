@@ -306,6 +306,10 @@
 </script>
 
 <style scoped lang="scss">
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
 .info_stats {
     display: flex;
     justify-content: space-between;
@@ -337,7 +341,7 @@
 
 .statistic {
     width: 100%;
-    height: 704px;
+    height: auto;
     background-color: white;
     margin-top: 3rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);

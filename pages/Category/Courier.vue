@@ -1,6 +1,6 @@
 <template>
     <div class="courier_page">
-        <AddPodcategory />
+        <AddPodcategory style="display: none;"/>
         <div class="container">
             <div class="info_stats">
                 <div class="info_page">
@@ -47,6 +47,36 @@
                         <div class="podcat_line">Красота и здоровье</div>
                         <div class="podcat_line">Репетиторы и обучение</div>
                         <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
+                        <div class="podcat_line">Репетиторы и обучение</div>
                     </div>
                 </div>
             </div>
@@ -67,8 +97,12 @@ export default {
 </script>
 
 <style scoped lang="scss">
+
 .courier_page {
     font-family: 'Lato', sans-serif;
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+    overflow: auto;
 }
 
 .info_stats {
@@ -101,15 +135,16 @@ export default {
 }
 
 .c_table {
-    height: 720px;
+    height: auto;
     background: #FFFFFF;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
     border-radius: 20px 20px 0 0;
     margin-top: 2rem;
+    padding-bottom: 1rem;
 
     .c_table_i {
-        height: 500px;
-        overflow: auto;
+        height: auto;
+        // overflow: auto;
         margin-top: 5rem;
 
         .podcat_block {

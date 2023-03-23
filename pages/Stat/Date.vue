@@ -23,140 +23,329 @@
                     </div>
                     <div class="stat_lines">
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="/" style="width: 120px;">Россия</NuxtLink>
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 120px;">Россия</span>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
@@ -173,6 +362,11 @@
 </script>
 
 <style scoped lang="scss">
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
 .info_stats {
     display: flex;
     justify-content: space-between;
@@ -203,7 +397,7 @@
 
 .statistic {
     width: 100%;
-    height: 704px;
+    height: auto;
     background-color: white;
     margin-top: 3rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -258,6 +452,23 @@
         }
     }
 
+}
+
+@media (max-width: 1281px) {
+    .statistic_h_i {
+        span {
+            font-size: 14px !important;
+        }
+
+    }
+
+    .stat_line {
+
+        span,
+        a {
+            font-size: 12px !important;
+        }
+    }
 }
 
 </style>

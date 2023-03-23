@@ -34,13 +34,18 @@
 
 
 <style scoped lang="scss">
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
 
-.page_title{
+.page_title {
     font-size: 22px;
     font-weight: 500;
     color: black;
     margin: 1rem 0;
 }
+
 .cards_info {
     margin-top: 2rem;
     display: flex;

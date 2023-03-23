@@ -177,6 +177,376 @@
                                 <img src="../../assets/images/search_i.svg" alt="">
                             </span>
                         </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
+                        <div class="stat_line">
+                            <span style="width: 50px;">
+                                <img src="../../assets/images/img1.svg" alt="">
+                            </span>
+                            <span style="width: 40px;">23</span>
+                            <span class="status" style="width: 95px;">Активный</span>
+                            <span style="width: 93px;">
+                                <img src="../../assets/images/search_i.svg" alt="">
+                            </span>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -190,12 +560,17 @@ import ModerPhotoAndPasport from '../../components/Modals/ModerPhotoAndPasport.v
 import ModerPass from '../../components/Modals/ModerPass.vue';
 
 export default {
-    components: {ModerPhoto,ModerPhotoAndPasport,ModerPass}
+    components: { ModerPhoto, ModerPhotoAndPasport, ModerPass }
 }
 
 </script>
 
 <style scoped lang="scss">
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
 .info_stats {
     display: flex;
     justify-content: space-between;
@@ -227,7 +602,7 @@ export default {
 
 .statistic {
     width: 100%;
-    height: 704px;
+    height: auto;
     background-color: white;
     margin-top: 3rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -254,7 +629,8 @@ export default {
             span:first-child {
                 margin-right: 10%;
             }
-            .status{
+
+            .status {
                 margin-left: 10%;
             }
 
@@ -281,17 +657,18 @@ export default {
                 margin-right: 10%;
             }
 
-            .status{
+            .status {
                 margin-left: 10%;
                 color: #6FC727;
                 font-size: 18px;
                 font-weight: 500;
             }
 
-            .status.ban{
+            .status.ban {
                 color: #FFA200;
             }
-            .status.del{
+
+            .status.del {
                 color: #EB5757;
             }
 
@@ -309,5 +686,4 @@ export default {
         }
     }
 
-}
-</style>
+}</style>

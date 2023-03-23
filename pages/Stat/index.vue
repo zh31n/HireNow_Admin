@@ -59,14 +59,7 @@
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
-                            <span style="width: 127px;">23</span>
-                            <span style="width: 155px;">23</span>
-                            <span style="width: 196px;">23</span>
-                            <span style="width: 197px;">500 $</span>
-                        </div>
-                        <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
@@ -80,56 +73,287 @@
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
                             <span style="width: 197px;">500 $</span>
                         </div>
                         <div class="stat_line">
-                            <NuxtLink to="Stat/Date"  style="width: 91px;">23.01.2023</NuxtLink>
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
+                            <span style="width: 127px;">23</span>
+                            <span style="width: 155px;">23</span>
+                            <span style="width: 196px;">23</span>
+                            <span style="width: 197px;">500 $</span>
+                        </div>
+                        <div class="stat_line">
+                            <NuxtLink to="Stat/Date" style="width: 91px;">23.01.2023</NuxtLink>
                             <span style="width: 127px;">23</span>
                             <span style="width: 155px;">23</span>
                             <span style="width: 196px;">23</span>
@@ -146,6 +370,11 @@
 </script>
 
 <style scoped lang="scss">
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
 .cards_info {
     margin-top: 2rem;
     display: flex;
@@ -205,7 +434,7 @@
 
 .statistic {
     width: 100%;
-    height: 594px;
+    height: auto;
     background-color: white;
     margin-top: 3rem;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
@@ -216,12 +445,14 @@
         height: 99px;
         background: #F9F8F9;
         padding: 0 2rem;
-        span{
+
+        span {
             display: block;
             font-size: 20px;
             font-weight: 500 !important;
         }
-        .statistic_h_i{
+
+        .statistic_h_i {
             height: 100%;
             display: flex;
             justify-content: space-between;
@@ -229,31 +460,49 @@
         }
     }
 
-    .stat_lines{
+    .stat_lines {
         padding: 0 2rem;
         margin-top: 1rem;
         transition: all .3s;
         height: 100%;
         overflow: auto;
 
-        .stat_line{
+        .stat_line {
             display: flex;
             justify-content: space-between;
             align-items: center;
             transition: all .3s;
             margin-bottom: 2rem;
-            span,a{
+
+            span,
+            a {
                 display: block;
                 font-size: 18px;
                 color: black;
                 font-weight: 500;
             }
-            a:hover{
+
+            a:hover {
                 color: #FFA200;
                 transition: all .3s;
             }
         }
     }
 
+}
+
+@media (max-width: 1281px) {
+    .statistic_h_i {
+        span {
+            font-size: 14px !important;
+        }
+
+    }
+
+    .stat_line{
+        span,a{
+            font-size: 12px !important;
+        }
+    }
 }
 </style>

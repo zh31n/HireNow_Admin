@@ -46,7 +46,6 @@ export default {
 
 <style scoped lang="scss">
 .Panel {
-
     height: 100vh;
     width: 250px;
     background-color: #ffa200;
@@ -60,6 +59,7 @@ export default {
     .panel_btns{
         margin-top: 2rem;
         transition: all .3s;
+        height: 80%;
     }
 
     .p_btn {
@@ -91,7 +91,10 @@ export default {
     }
 
     .p_btn:last-child{
-        margin-top: 15rem;
+        margin-top: 30vh;
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
     }
 }
 </style>

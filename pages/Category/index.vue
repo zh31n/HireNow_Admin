@@ -44,9 +44,15 @@ export default {
 </script>
 
 <style scoped lang="scss">
-a{
+.stat {
+    padding-top: 2rem;
+    width: calc(100vw - 250px);
+}
+
+a {
     color: black !important;
 }
+
 .page_title {
     font-size: 22px;
     font-weight: 500;
@@ -113,7 +119,7 @@ a{
 
 .page_i {
     width: 100%;
-    height: 550px;
+    height: auto;
     overflow: auto;
     margin-top: 2rem;
     font-family: 'Lato', sans-serif;

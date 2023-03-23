@@ -21,6 +21,12 @@ body,
   padding: 0 !important;
 }
 
+@media (max-width: 1250px) {
+  .container{
+    max-width: 880px !important;
+  }
+}
+
 * {
   scrollbar-width: thin;
   scrollbar-color: #717171 #DFE9EB;

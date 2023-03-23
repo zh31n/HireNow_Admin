@@ -60,7 +60,7 @@ export default {
     // bottom: 10px;
 
     .input_d {
-        width: 315px;
+        width: 90%;
         height: 40px;
         background: #FFFFFF;
         border: 1px solid #D9D9D9;
@@ -156,6 +156,17 @@ export default {
         span {
             font-size: 12px;
             color: #828282;
+        }
+    }
+}
+
+@media (max-width: 1281px) {
+    .bl_o{
+        margin-left: 25%;
+    }
+    .msg_item{
+        .trash{
+            margin-left: 26% !important;
         }
     }
 }
